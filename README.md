@@ -10,8 +10,9 @@
 * 📫 **Reach me at:** **[saketmathur2144@gmail.com](mailto:saketmathur2144@gmail.com)**
 * ⚡ **Fun fact:** I enjoy building real-world projects and learning new technologies every day.
 
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%9A%80+Building+Production-Grade+AI+Systems;%F0%9F%8C%BF+LeafSense+AI+%E2%80%94+96.65%25+Accuracy+%7C+88+Disease+Classes;%E2%98%81%EF%B8%8F+AWS+Certified+%7C+Multi-Cloud+Architecture" alt="Typing SVG" /></a>
+<!--Coding GIF-->
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saket_mathur2144) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saketmathur04) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saketmathur2144@gmail.com) 
